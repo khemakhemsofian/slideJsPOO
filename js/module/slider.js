@@ -9,7 +9,7 @@ var mySlider = {
   let count = 0;
 
    function slideSuivante() {
-
+     alert("test");
        items[count].classList.remove('myImage');
 
        if (count < nbSlide -1) {
