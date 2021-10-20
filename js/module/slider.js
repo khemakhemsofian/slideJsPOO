@@ -2,6 +2,7 @@ var mySlider = {
  
  
  clickSlider : () =>{
+     alert("test");
  const items = document.querySelectorAll('img');
  const nbSlide = items.length;
  const suivant = document.getElementById('precedent');
