@@ -41,7 +41,6 @@ var mySlider = {
    items[count].classList.add('myImage');
    });
 
-
    
    
    /*function slidePrecedente() {
