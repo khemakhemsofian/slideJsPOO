@@ -20,7 +20,6 @@ var mySlider = {
        items[count].classList.add('myImage');
    }
    suivant.addEvenListener('click', slideSuivante);
-    console.log('');
    function slidePrecedente() {
      items[count].classList.remove('myImage');
      if (count > 0) {
