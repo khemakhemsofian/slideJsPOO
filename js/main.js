@@ -1,4 +1,4 @@
-import {mySlider} from "./module/slider.js";
+import {mySlider} from "/js/module/slider.js";
 
 mySlider.clickSlider();
 //commentaire//
